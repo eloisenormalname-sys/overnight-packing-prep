@@ -1,0 +1,10 @@
+{
+ "id":"./", "name":"Overnight Packing & Prep", "short_name":"Overnight",
+ "description":"Your gentle, offline overnight packing and preparation checklist.",
+ "start_url":"./", "scope":"./", "display":"standalone",
+ "background_color":"#f7f2ef", "theme_color":"#f7f2ef", "lang":"en",
+ "icons":[
+  {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+  {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+ ]
+}

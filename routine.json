@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "sections": [
+    {"id":"preflight","name":"Preflight","hint":"A little planning before you start.","items":[
+      {"id":"weather","label":"Check weather","minutes":0},
+      {"id":"schedule","label":"Review tomorrow's schedule","minutes":0},
+      {"id":"charge","label":"Charge devices","minutes":0},
+      {"id":"essentials","label":"Check keys / wallet / ID","minutes":0},
+      {"id":"transport","label":"Check transportation and departure time","minutes":0},
+      {"id":"weather-items","label":"Weather items: umbrella / coat (if needed)","minutes":0,"optional":true}
+    ]},
+    {"id":"get-ready","name":"Get Ready","hint":"Make a little time for yourself.","items":[
+      {"id":"shower","label":"Shower","minutes":15},
+      {"id":"outfit","label":"Pick outfit","minutes":10},
+      {"id":"teeth","label":"Brush teeth","minutes":2},
+      {"id":"makeup","label":"Do makeup","minutes":15},
+      {"id":"hair","label":"Do hair","minutes":10},
+      {"id":"accessories","label":"Put on jewelry / accessories","minutes":3},
+      {"id":"eat","label":"Eat / drink water before leaving","minutes":5}
+    ]},
+    {"id":"pack-bag","name":"Pack Bag","hint":"Small things, all in one place.","items":[
+      {"id":"toothbrush","label":"Toothbrush / toothpaste","minutes":0},
+      {"id":"bb-cream","label":"BB cream","minutes":0},
+      {"id":"eyeliner","label":"Eyeliner","minutes":0},
+      {"id":"lip-mask","label":"Lip mask","minutes":0},
+      {"id":"retinol","label":"Retinol","minutes":0},
+      {"id":"mirror","label":"Mirror","minutes":0},
+      {"id":"tweezers","label":"Tweezers / epilator","minutes":0},
+      {"id":"crow-food","label":"Crow food","minutes":0},
+      {"id":"underwear","label":"Underwear","minutes":0},
+      {"id":"jimjams","label":"Jimjams","minutes":0},
+      {"id":"snax","label":"Monster / snax","minutes":0},
+      {"id":"socks","label":"Socks","minutes":0},
+      {"id":"meds","label":"Meds","minutes":0},
+      {"id":"brush","label":"Brush","minutes":0},
+      {"id":"sleep","label":"Sleep hat / mask","minutes":0},
+      {"id":"finish-packing","label":"Finish packing bag","minutes":10}
+    ]},
+    {"id":"final-checks","name":"Final Checks","hint":"One last look, then you’re off.","items":[
+      {"id":"containers","label":"Leftover containers","minutes":0},
+      {"id":"forgotten","label":"Forgotten items","minutes":0},
+      {"id":"lights","label":"Turn off lights / appliances","minutes":0},
+      {"id":"tidy","label":"Final tidy up","minutes":5}
+    ]}
+  ]
+}
